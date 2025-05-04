@@ -1,5 +1,3 @@
-# CarPricePrediction
-
 Data Science Project
 ==============================
 DataScience Project Used Car Price Prediction
